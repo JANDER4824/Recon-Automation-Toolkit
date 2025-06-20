@@ -1,0 +1,1 @@
+nmap_args: "-T4 -A -p-"
